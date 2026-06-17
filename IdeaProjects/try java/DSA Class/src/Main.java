@@ -41,7 +41,7 @@ public class Main {
         if (results!= -1){
             System.out.println("Target found at index "+results);
         } else {
-            System.out.println("TARGET_NOT_FOUND");
+            System.out.println("TARGET_NOT_FOUND !");
         }
 
 
@@ -50,7 +50,7 @@ public class Main {
         if (results!= -1){
             System.out.println("Target found at index "+results);
         } else {
-            System.out.println("TARGET_NOT_FOUND");
+            System.out.println("TARGET_NOT_FOUND !");
         }
 
     }
